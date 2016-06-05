@@ -1,5 +1,5 @@
 body{
-	background: blue;
+	/*background: blue;*/
 }
 
 
@@ -24,4 +24,19 @@ body{
 }
 .gris{
 	background: #E3E3E3;
+}
+
+.box{
+	margin: 0.4em 0;
+	border: 5px solid white;
+}
+
+.box--small{
+	height: 80px;
+}
+.box--medium{
+	height: 150px;
+}
+.box--large{
+	height: 400px;
 }
