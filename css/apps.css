@@ -11,3 +11,17 @@ body{
 .primary-text-color    { color: #212121; }
 .secondary-text-color  { color: #727272; }
 .divider-color         { border-color: #B6B6B6; }
+
+/*Ejercicio con grilla*/
+.naranja{
+	background: #FFA335;
+}
+.amarillo{
+	background: #DAEC00;
+}
+.azul{
+	background: #4A89D0;
+}
+.gris{
+	background: #E3E3E3;
+}
